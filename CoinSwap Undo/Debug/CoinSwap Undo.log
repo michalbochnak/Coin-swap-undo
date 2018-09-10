@@ -1,0 +1,7 @@
+﻿  prog6mbochn2.cpp
+c:\users\michal\documents\visual studio 2015\projects\coinswap undo\coinswap undo\prog6mbochn2.cpp(139): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+c:\users\michal\documents\visual studio 2015\projects\coinswap undo\coinswap undo\prog6mbochn2.cpp(216): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+  CoinSwap Undo.vcxproj -> C:\Users\Michal\Documents\Visual Studio 2015\Projects\CoinSwap Undo\Debug\CoinSwap Undo.exe
+  CoinSwap Undo.vcxproj -> C:\Users\Michal\Documents\Visual Studio 2015\Projects\CoinSwap Undo\Debug\CoinSwap Undo.pdb (Full PDB)
